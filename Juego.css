@@ -19,21 +19,21 @@ body *{
 
 .one{
   grid-area: one ;
-  background-color: burlywood;
+  background-color: #922b21;
 }
 
 .two{
   grid-area: two ;
-  background-color: coral;
+  background-color: #d4ac0d;
 }
 
 .three{
   grid-area: three;
-  background-color: darkseagreen;
+  background-color: #154360;
 }
 
 .four{
   grid-area: four;
-  background-color: violet;
+  background-color: #0e6251;
 }
 
